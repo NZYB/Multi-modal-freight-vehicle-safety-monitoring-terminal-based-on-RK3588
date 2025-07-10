@@ -1,0 +1,1 @@
+# Multi-modal-freight-vehicle-safety-monitoring-terminal-based-on-RK3588
