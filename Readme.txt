@@ -1,0 +1,4 @@
+Code_Running_on_PC是云端远程货运车辆安全监测上位机
+Code_Running_on_Board运行于elf2 开发板的上位机和程序，包括模型
+Code_Running_on_Module是自行设计的生理参数监测模块的裸机代码
+文档是论文
